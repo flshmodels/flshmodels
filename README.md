@@ -25,3 +25,22 @@ No looking back
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## Projects
+
+[Portfolio](https://flshmdls.pages.dev/) · [UI demo](https://flshmdls.pages.dev/#demo)
+
+<details>
+<summary>Browse projects</summary>
+
+**Studio plugins:** [flash-attributes](https://github.com/flshmodels/flash-attributes) · [flash-collision](https://github.com/flshmodels/flash-collision) · [flash-grid](https://github.com/flshmodels/flash-grid) · [flash-inspect](https://github.com/flshmodels/flash-inspect) · [flash-links](https://github.com/flshmodels/flash-links) · [flash-materials](https://github.com/flshmodels/flash-materials) · [flash-measure](https://github.com/flshmodels/flash-measure) · [flash-rename](https://github.com/flshmodels/flash-rename) · [flash-tags](https://github.com/flshmodels/flash-tags) · [flash-paths](https://github.com/flshmodels/flash-paths) · [flash-interact](https://github.com/flshmodels/flash-interact)
+
+**Game integration:** [rbx-cad-bridge](https://github.com/flshmodels/rbx-cad-bridge) · [roblox-anticheat-starter](https://github.com/flshmodels/roblox-anticheat-starter)
+
+**Developer tools:** [flash-bench](https://github.com/flshmodels/flash-bench) · [flash-config](https://github.com/flshmodels/flash-config) · [flash-canvas](https://github.com/flshmodels/flash-canvas) · [flash-locale](https://github.com/flshmodels/flash-locale)
+
+**APIs:** [flash-cache](https://github.com/flshmodels/flash-cache) · [flash-history](https://github.com/flshmodels/flash-history) · [flash-validate](https://github.com/flshmodels/flash-validate)
+
+**Windows utility:** [flashscan](https://github.com/flshmodels/flashscan)
+
+</details>
