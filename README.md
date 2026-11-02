@@ -1,27 +1,55 @@
-# 👨‍💻 About Me
-A High School student trying to major in computer science
-Trying to learn new concepts and put them towards my everyday coding 
-Private Developer for roblox (I work for myself)
-No looking back
+# flash
 
-## 🛠️ Tools & Technologies
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Rojo](https://img.shields.io/badge/Rojo-E2231A?style=for-the-badge&logoColor=white)
-![Wally](https://img.shields.io/badge/Wally-FF6B35?style=for-the-badge&logoColor=white)
+High school student learning computer science. I mostly build tools for my own Roblox projects.
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+[Portfolio](https://flshmdls.pages.dev/) · [UI recording](https://flshmdls.pages.dev/#demo)
+
+## Projects
+
+Setup, examples, tests and current limits are in each README. Studio plugins include local installation instructions; their live Studio checks are listed separately.
+
+### Studio plugins
+
+| Project | What it does |
+| --- | --- |
+| [flash-attributes](https://github.com/flshmodels/flash-attributes) | Set or remove Roblox attributes across a selection, with typed values and a preview. |
+| [flash-collision](https://github.com/flshmodels/flash-collision) | Assign existing Roblox collision groups to selected parts, with a preview and undo. |
+| [flash-grid](https://github.com/flshmodels/flash-grid) | Snap selected Roblox parts to a world grid, with a preview and undo. |
+| [flash-inspect](https://github.com/flshmodels/flash-inspect) | Find unanchored tagged scenery and missing or duplicate interaction IDs in Studio. |
+| [flash-links](https://github.com/flshmodels/flash-links) | Review unset and detached Roblox object references without changing the place. |
+| [flash-materials](https://github.com/flshmodels/flash-materials) | Batch change Roblox part materials with previews, variant handling and undo. |
+| [flash-measure](https://github.com/flshmodels/flash-measure) | Measure Roblox part dimensions, rotated box bounds and two-part spacing without edits. |
+| [flash-rename](https://github.com/flshmodels/flash-rename) | Batch rename Roblox objects with numbered templates, previews and sibling-name checks. |
+| [flash-tags](https://github.com/flshmodels/flash-tags) | Add, remove or replace Roblox tags across a selection, with previews and undo. |
+| [flash-paths](https://github.com/flshmodels/flash-paths) | Generate explicit Roblox object lookups with escaped names and duplicate-name checks. |
+| [flash-interact](https://github.com/flshmodels/flash-interact) | Apply consistent ProximityPrompt settings with a preview and undo. |
+
+### Game integration
+
+| Project | What it does |
+| --- | --- |
+| [rbx-cad-bridge](https://github.com/flshmodels/rbx-cad-bridge) | Send Roblox 911 calls, unit updates and panic alerts to a CAD backend. |
+| [roblox-anticheat-starter](https://github.com/flshmodels/roblox-anticheat-starter) | Server-side Roblox checks for remote spam, invalid inputs and decoy remote calls. |
+
+### Developer tools
+
+| Project | What it does |
+| --- | --- |
+| [flash-bench](https://github.com/flshmodels/flash-bench) | Measure Luau code and compare timing results from Roblox test runs. |
+| [flash-config](https://github.com/flshmodels/flash-config) | Check CSV and JSON item catalogs and generate Roblox ModuleScripts. |
+| [flash-canvas](https://github.com/flshmodels/flash-canvas) | Preview small Roblox-style UI layouts locally and export them as Luau. |
+| [flash-locale](https://github.com/flshmodels/flash-locale) | Check Roblox localization CSV files for missing translations and mismatched placeholders. |
+
+### APIs
+
+| Project | What it does |
+| --- | --- |
+| [flash-cache](https://github.com/flshmodels/flash-cache) | A small API for storing JSON values with expiration times. |
+| [flash-history](https://github.com/flshmodels/flash-history) | A JSON document history API with undo, redo and version checks. |
+| [flash-validate](https://github.com/flshmodels/flash-validate) | Check JSON against validation rules and report the fields that failed. |
+
+### Windows utility
+
+| Project | What it does |
+| --- | --- |
+| [flashscan](https://github.com/flshmodels/flashscan) | Check file details, run a Microsoft Defender scan and save the results. |
