@@ -1,47 +1,17 @@
-# 👨‍💻 About Me
-A High School student trying to major in computer science
-Trying to learn new concepts and put them towards my everyday coding 
-Private Developer for roblox (I work for myself)
-No looking back
+# About me
 
-## 🛠️ Tools & Technologies
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Rojo](https://img.shields.io/badge/Rojo-E2231A?style=for-the-badge&logoColor=white)
-![Wally](https://img.shields.io/badge/Wally-FF6B35?style=for-the-badge&logoColor=white)
+I’m flash, a high school student working toward studying computer science. I mostly work on my own Roblox projects.
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+I use Luau for Roblox and JavaScript, Python and PowerShell for tools outside Studio.
 
 ## Projects
 
-[Portfolio](https://flshmdls.pages.dev/) · [UI demo](https://flshmdls.pages.dev/#demo)
+- [Roblox CAD Bridge](https://github.com/flshmodels/rbx-cad-bridge): sends calls, unit updates and panic alerts from Roblox to a dispatch backend. Includes a receiver and example adapter.
+- [Flash Canvas](https://github.com/flshmodels/flash-canvas): previews small UI layouts in the browser and exports the structure as Luau.
+- [Flash Inspect](https://github.com/flshmodels/flash-inspect): checks tagged scenery and interaction IDs in Studio, with clickable findings.
 
-<details>
-<summary>Browse projects</summary>
+The repositories include setup notes and testing limits. My smaller utilities and experiments are in the [repository list](https://github.com/flshmodels?tab=repositories).
 
-**Studio plugins:** [flash-attributes](https://github.com/flshmodels/flash-attributes) · [flash-collision](https://github.com/flshmodels/flash-collision) · [flash-grid](https://github.com/flshmodels/flash-grid) · [flash-inspect](https://github.com/flshmodels/flash-inspect) · [flash-links](https://github.com/flshmodels/flash-links) · [flash-materials](https://github.com/flshmodels/flash-materials) · [flash-measure](https://github.com/flshmodels/flash-measure) · [flash-rename](https://github.com/flshmodels/flash-rename) · [flash-tags](https://github.com/flshmodels/flash-tags) · [flash-paths](https://github.com/flshmodels/flash-paths) · [flash-interact](https://github.com/flshmodels/flash-interact)
+[Portfolio](https://flshmdls.pages.dev/) · [Portfolio source](https://github.com/flshmodels/portfolio)
 
-**Game integration:** [rbx-cad-bridge](https://github.com/flshmodels/rbx-cad-bridge) · [roblox-anticheat-starter](https://github.com/flshmodels/roblox-anticheat-starter)
-
-**Developer tools:** [flash-bench](https://github.com/flshmodels/flash-bench) · [flash-config](https://github.com/flshmodels/flash-config) · [flash-canvas](https://github.com/flshmodels/flash-canvas) · [flash-locale](https://github.com/flshmodels/flash-locale)
-
-**APIs:** [flash-cache](https://github.com/flshmodels/flash-cache) · [flash-history](https://github.com/flshmodels/flash-history) · [flash-validate](https://github.com/flshmodels/flash-validate)
-
-**Windows utility:** [flashscan](https://github.com/flshmodels/flashscan)
-
-</details>
+Email: [Whicklez2@gmail.com](mailto:Whicklez2@gmail.com) · [Discord: Whicklez](https://discord.com/users/1259601965034377357)
